@@ -1,1 +1,1 @@
-# MyResume
+Resume Generator
